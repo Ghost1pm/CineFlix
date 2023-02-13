@@ -1,0 +1,224 @@
+{
+  "main": [ 
+    {"movie_card" : [
+      {
+        "key" : 1,
+        "name" : "Red Notice",
+        "img" : "red-notice.jpg",
+        "rate" : 6.4,
+        "type" : "Action/Comedy",
+        "year" : "2021"
+      },
+      {
+        "key" : 2,
+        "name" : "Spider-Man: Homecoming",
+        "img" : "spider-men.jpg",
+        "rate" : 7.4,
+        "type" : "Action/Adventure",
+        "year" : "2017"
+      },
+      {
+        "key" : 3,
+        "name" : "The Matrix Resurrections",
+        "img" : "Matrix.jpg",
+        "rate" : "N/A",
+        "type" : "Sci-fi/Action",
+        "year" : "2021"
+      },
+      {
+        "key" : 4,
+        "name" : "Eternals",
+        "img" : "eternals.jpg",
+        "rate" : 6.8,
+        "type" : "Adventure/Action",
+        "year" : "2021"
+      },
+      {
+        "key" : 5,
+        "name" : "Dune",
+        "img" : "dune.jpg",
+        "rate" : 8.2,
+        "type" : "Sci-fi/Adventure",
+        "year" : "2021"
+      },
+      {
+        "key" : 6,
+        "name" : "1917",
+        "img" : "1917.jpg",
+        "rate" : 8.3,
+        "type" : "War/Drama",
+        "year" : "2019"
+      },
+      {
+        "key" : 7,
+        "name" : "Shang-Chi and The Legend of The Ten Rings",
+        "img" : "shang-chi.jpg",
+        "rate" : 7.6,
+        "type" : "Action/Fantasy",
+        "year" : "2021"
+      },
+      {
+        "key" : 8,
+        "name" : "Casino Royale",
+        "img" : "casino-royale.jpg",
+        "rate" : 8.1,
+        "type" : "Action/Adventure",
+        "year" : "2006"
+      },
+      {
+        "key" : 9,
+        "name" : "The Dark Knight",
+        "img" : "dark-knight.jpg",
+        "rate" : 9.6,
+        "type" : "Action/Adventure",
+        "year" : "2008"
+      },
+      {
+        "key" : 10,
+        "name" : "Black Panther",
+        "img" : "panther.jpg",
+        "rate" : 7.3,
+        "type" : "Action/Adventure",
+        "year" : "2018"
+      },
+      {
+        "key" : 11,
+        "name" : "Venom",
+        "img" : "venom.jpg",
+        "rate" : 6.7,
+        "type" : "Action/Adventure",
+        "year" : "2018"
+      },
+      {
+        "key" : 12,
+        "name" : "Lord Of The Rings: Return Of The King",
+        "img" : "LOTR.jpg",
+        "rate" : 8.9,
+        "type" : "Fantasy/Adventure",
+        "year" : "2003"
+      },
+      {
+        "key" : 13,
+        "name" : "Saving Private Ryan",
+        "img" : "saving-private-ryan.jpg",
+        "rate" : 8.6,
+        "type" : "War/Action",
+        "year" : "1998"
+      },
+      {
+        "key" : 14,
+        "name" : "Interstellar",
+        "img" : "interstaller.jpg",
+        "rate" : 8.6,
+        "type" : "Sci-fi/Adventure",
+        "year" : "2014"
+      },
+      {
+        "key" : 15,
+        "name" : "Gladiator",
+        "img" : "gladiator.jpg",
+        "rate" : 8.5,
+        "type" : "Action/Adventure",
+        "year" : "2000"
+      },
+      {
+        "key" : 16,
+        "name" : "Avengers: Endgame",
+        "img" : "endgame.jpg",
+        "rate" : 8.4,
+        "type" : "Action/Sci-fi",
+        "year" : "2019"
+      },
+      {
+        "key" : 17,
+        "name" : "Wonder Woman 1984",
+        "img" : "ww84.jpg",
+        "rate" : 5.4,
+        "type" : "Action/Adventure",
+        "year" : "2020"
+      },
+      {
+        "key" : 18,
+        "name" : "Captain Marvel",
+        "img" : "captain-marvel.jpg",
+        "rate" : 6.8,
+        "type" : "Action/Sci-fi",
+        "year" : "2019"
+      }
+    ]},
+    {"category" :[
+      {
+        "key" : 1,
+        "img" : "action.jpg",
+        "tittle" : "Action",
+        "values" : "100"
+      },
+      {
+        "key" : 2,
+        "img" : "comedy.jpg",
+        "tittle" : "Comedy",
+        "values" : "50"
+      },
+      {
+        "key" : 3,
+        "img" : "thriller.webp",
+        "tittle" : "Thriller",
+        "values" : "20"
+      },
+      {
+        "key" : 4,
+        "img" : "horror.jpg",
+        "tittle" : "Horror",
+        "values" : "80"
+      },
+      {
+        "key" : 5,
+        "img" : "adventure.jpg",
+        "tittle" : "Adventure",
+        "values" : "100"
+      },
+      {
+        "key" : 6,
+        "img" : "animated.jpg",
+        "tittle" : "Animated",
+        "values" : "50"
+      },
+      {
+        "key" : 7,
+        "img" : "crime.jpg",
+        "tittle" : "Crime",
+        "values" : "20"
+      },
+      {
+        "key" : 8,
+        "img" : "sci-fi.jpg",
+        "tittle" : "SCI-FI",
+        "values" : "80"
+      }
+    ]},
+    {"live": [
+      {
+        "key": 1,
+        "logo" : "bbcamerica.jpg",
+        "img" : "planet.jpg",
+        "views" : "305k viewers",
+        "name" : "Planet Earth II Season 1 - Islands"
+      },
+      {
+        "key": 2,
+        "logo" : "HBO-Logo-square.jpg",
+        "img" : "got.jpg",
+        "views" : "1.7m viewers",
+        "name" : "Game of Thrones Season 5 - Mother's Mercy"
+      },
+      {
+        "key": 3,
+        "logo" : "HBO-Logo-square.jpg",
+        "img" : "vikings.jpg",
+        "views" : "468k viewers",
+        "name" : "Vikings Season 4 - What Might Have Been"
+      }
+    ]}
+  ]
+}
+         
