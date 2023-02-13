@@ -1,0 +1,117 @@
+
+@media (max-width: 1200px) {
+  #footer .footer_brand{
+margin-bottom: 35px;
+}
+
+}
+@media (max-width: 992px) {
+  #BANNER .box .box_text h1 {
+      font-size: 30px;
+      font-weight: 700;
+  }
+
+}
+@media (max-width: 768px) {
+  nav .wraper{
+
+justify-content: flex-end;
+
+gap: 30px;
+
+padding-top: 8px;
+
+}
+#movies_section .filter ul{
+flex-wrap: wrap;
+justify-content: center;
+}
+#movies_section .filter .filter-radio{
+text-align: center;
+margin-top: 15px;
+}
+}
+@media (max-width: 575px) {
+  nav {
+    padding-inline: 10px;
+  }
+  main{
+padding-inline: 33px;
+  }
+  #BANNER .box .box_text h1 {
+      font-size: 20px;
+      font-weight: 600;
+  }
+  #BANNER .box .box_text ul li p{
+font-size: 15px;
+}
+  #BANNER .box .box_text ul li ion-icon{
+font-size: 20px;
+}
+#BANNER .box .box_text {
+    bottom: 60px;
+    left: 30px;
+    right: 30px;
+}
+#input_box{
+left: 25px;
+right: 25px;
+}
+#Category .card_box .card{
+  height: 200px;
+}
+#footer .footer_link ul{
+margin-bottom: 50px;
+}
+#footer footer{
+text-align: center;
+display: block;
+}
+#footer footer .wrapper{
+  justify-content: center;
+  margin-bottom: 15px;
+}
+}
+
+@media (max-width: 400px){
+  #movies_section .filter .filter-radio .box label{
+  display: block;
+  margin-inline: 15px;
+  margin-block: 10px;
+  }
+  #movies_section .filter .filter-radio .box input ~ .checked-radio-bg{
+    height: 30px;
+    --width: 90px;
+    --left: 20px;
+    --top: 15px;
+  --transi: top 0.4s ease,bottom 0.4s ease;
+  }
+  #movies_section .filter .filter-radio .box #Popular:checked ~  .checked-radio-bg {
+      --width: 75px;
+      --top: 48px;
+  --left: 28px;
+  }
+  #movies_section .filter .filter-radio .box #Newest:checked ~  .checked-radio-bg {
+      --width: 80px;
+      --left: 25px;
+  --top: 78px;
+  }
+
+}
+@media (max-width: 375px){
+  .ees{
+width: 100%;
+}
+}
+@media (max-width: 350px){
+  nav .wraper {
+    justify-content: flex-end;
+    gap: 7px;
+  }
+  .footerXXs{
+width: 100%;
+}
+#footer .footer_brand {
+    margin-right: 15px;
+}
+}
