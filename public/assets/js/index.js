@@ -95,7 +95,7 @@ function movie_card(jsonData) {
 
 
   
-  fetch('http://localhost:3000/main')
+  fetch('https://cineflixapi-v1l0.onrender.com/main')
   .then(res=>res.json())
   .then(json=>{
     movie_card(json[0]);
