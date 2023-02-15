@@ -9,7 +9,7 @@ function movie_card(jsonData) {
       <div class="col-lg-2 col-md-3 col-sm-4 col-6 ees">
         <div class="card">
           <div class="img_box">
-            <img src="assets/img/movies/${variable.img}" alt="" class="movieImg">
+            <img src="assets/img/movies/${variable.img}" alt="" class="movieImg" loading="lazy">
             <div class="card_overFlow">
               <div class="bookmark">
                 <ion-icon name="bookmark-outline"></ion-icon>
@@ -45,7 +45,7 @@ function movie_card(jsonData) {
       <div class="col-lg-3 col-md-4 col-sm-6">
         <div class="card_box">
           <div class="card">
-          <img src="assets/img/${variable.img}" alt="">
+          <img src="assets/img/${variable.img}" alt="" loading="lazy">
             <ul>
               <li><h1>${variable.tittle}</h1></li>
               <li><span>${variable.values}</span></li>
@@ -65,7 +65,7 @@ function movie_card(jsonData) {
       <div class="col-lg-4 col-sm-6">
         <div class="card_box">
           <div class="img_box">
-            <img src="assets/img/${variable.img}" alt="">
+            <img src="assets/img/${variable.img}" alt="" loading="lazy">
             <div class="overflow">
               <div class="live">
                 <p>Live</p>
