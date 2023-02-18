@@ -71,6 +71,7 @@ left: 25px;
 right: 25px;
 }
 #Category .card_box .card{
+  min-height:150px;
   height: auto;
 }
 #footer .footer_link ul{
