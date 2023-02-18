@@ -1,8 +1,10 @@
 
 @media (max-width: 1200px) {
   #footer .footer_brand{
-margin-bottom: 35px;
-}
+
+margin-bottom: 35px;
+
+}
 
 }
 @media (max-width: 992px) {
@@ -23,12 +25,16 @@ padding-top: 8px;
 
 }
 #movies_section .filter ul{
-flex-wrap: wrap;
-justify-content: center;
+
+flex-wrap: wrap;
+
+justify-content: center;
 }
 #movies_section .filter .filter-radio{
-text-align: center;
-margin-top: 15px;
+
+text-align: center;
+
+margin-top: 15px;
 }
 }
 @media (max-width: 575px) {
@@ -36,36 +42,46 @@ padding-top: 8px;
     padding-inline: 10px;
   }
   main{
-padding-inline: 33px;
+
+padding-inline: 33px;
   }
   #BANNER .box .box_text h1 {
       font-size: 20px;
       font-weight: 600;
   }
   #BANNER .box .box_text ul li p{
-font-size: 15px;
-}
+
+font-size: 15px;
+
+}
   #BANNER .box .box_text ul li ion-icon{
-font-size: 20px;
-}
+
+font-size: 20px;
+
+}
 #BANNER .box .box_text {
     bottom: 60px;
     left: 30px;
     right: 30px;
 }
 #input_box{
-left: 25px;
-right: 25px;
+
+left: 25px;
+
+right: 25px;
 }
 #Category .card_box .card{
-  height: 200px;
+  height: auto;
 }
 #footer .footer_link ul{
-margin-bottom: 50px;
+
+margin-bottom: 50px;
 }
 #footer footer{
-text-align: center;
-display: block;
+
+text-align: center;
+
+display: block;
 }
 #footer footer .wrapper{
   justify-content: center;
@@ -100,8 +116,10 @@ padding-top: 8px;
 }
 @media (max-width: 375px){
   .ees{
-width: 100%;
-}
+
+width: 100%;
+
+}
 }
 @media (max-width: 350px){
   nav .wraper {
@@ -109,8 +127,10 @@ padding-top: 8px;
     gap: 7px;
   }
   .footerXXs{
-width: 100%;
-}
+
+width: 100%;
+
+}
 #footer .footer_brand {
     margin-right: 15px;
 }
